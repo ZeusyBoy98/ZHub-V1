@@ -62,3 +62,5 @@ Enjoy your ZHub!
 ![Angled](IMG/ZHub-V1-Angled.png)
 
 ## Designing
+![Schematic](IMG/schematic.png)
+![Wiring](IMG/wiring.png)
