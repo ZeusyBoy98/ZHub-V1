@@ -54,7 +54,7 @@ Once the case has finished printing, place the assembled PCB into said case, the
 #### 5. Profit
 Plug a USB-C to C cable into the upstream port of the hub (the one not next to any other ports), and plug the other end of that cable into your computer. Then plug whatever USB devices into the downstream ports and...
 
-This project does not need firmware.
+This project does not need firmware, ignore the firmware folder.
 
 Enjoy your ZHub!
 
