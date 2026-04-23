@@ -3,7 +3,7 @@ A basic USB hub built to suite my needs.
 Made for Hack Club Fallout
 
 ## Zine
-In progress...
+![Zine](IMG/ZHub-V1-Zine.png)
 
 ## What?
 A basic USB hub with:
